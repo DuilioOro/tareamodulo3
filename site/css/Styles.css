@@ -1,0 +1,142 @@
+/ * Estilos base * /
+
+* {
+  tamaño de la caja: border-box;
+}
+
+h1 {
+  Familia tipográfica: pincelada, fantasía;
+  color: # 000000;
+}
+
+cuerpo {
+  imagen de fondo: url ("background.jpg");
+  color de fondo: #FFFFFF;
+
+}
+
+pags {
+  acolchado: 10px;
+  margen: 0;
+}
+
+.envase {
+  borde: ninguno;
+  margen izquierdo: auto;
+  margen derecho: auto;
+  margen superior: 10px;
+  margen inferior: 10px;
+  acolchado: 10px;
+}
+
+sección {
+  borde: 1px negro sólido;
+  color de fondo: gris;
+  ancho: 100%;
+  altura: auto;
+  Familia tipográfica: Helvetica;
+  de color negro;
+  posición: relativa;
+  desbordamiento: auto;
+}
+
+#pollo {
+  borde: 1px negro sólido;
+  alinear texto: centro;
+  ancho: 30%;
+  margen izquierdo: 70%;
+  Familia tipográfica: pincelada, fantasía
+  peso de fuente: negrita;
+  tamaño de fuente: 125%;
+  margen inferior: 0;
+  margen superior: 0;
+  acolchado: 5px;
+  color blanco;
+  color de fondo: # FF1439;
+}
+
+#carne de vaca {
+  borde: 1px negro sólido;
+  alinear texto: centro;
+  ancho: 30%;
+  margen izquierdo: 70%;
+  Familia tipográfica: pincelada, fantasía
+  peso de fuente: negrita;
+  tamaño de fuente: 125%;
+  margen inferior: 0;
+  margen superior: 0;
+  acolchado: 5px;
+  color blanco;
+  color de fondo: # CC2354;
+}
+
+#Sushi {
+  borde: 1px negro sólido;
+  alinear texto: centro;
+  ancho: 30%;
+  margen izquierdo: 70%;
+  Familia tipográfica: pincelada, fantasía
+  peso de fuente: negrita;
+  tamaño de fuente: 125%;
+  margen inferior: 0;
+  margen superior: 0;
+  color de fondo: # 6495ED;
+  color blanco;
+  acolchado: 5px;
+}
+
+# chicken-div {
+  margen inferior: 10px;
+  margen superior: 10px;
+}
+
+# beef-div {
+  margen inferior: 10px;
+  margen superior: 10px;
+}
+
+# sushi-div {
+  margen inferior: 10px;
+  margen superior: 10px;
+}
+
+.navbar-brand {
+  tamaño de fuente: 2em;
+  borde: 0 0 10px 10px;
+}
+
+# header-nav {
+  borde: 0;
+}
+botón{
+  posición del objeto: derecha;
+}
+.navbar-header button.navbar-toggler {
+  Limpia los dos;
+  margen superior: -30px;
+  borde: 1px sólido;
+  margen derecho: 0;
+}
+
+.nav-header {
+  color de fondo: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  tamaño de fuente: 1.5em;
+}
+
+# nav-list {
+  color blanco;
+}
+
+h {
+  tamaño: 20px;
+  color del borde: blanco;
+}
+
+.articulo {
+  color blanco;
+  tamaño de fuente: 1.2em;
+}
